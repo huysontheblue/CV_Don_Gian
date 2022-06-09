@@ -1,0 +1,175 @@
+
+html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+.body {
+	margin-left: 95px;
+    margin-right: 95px;
+	width: 1300px;
+	height: 2290px;
+}
+
+.main {
+	width: 1300px;
+	height: 700px;
+	color: #fff;
+}
+
+.main-1 {
+ 	width: 650px;
+	height: 700px;
+	float: left;
+	text-align: center;
+	background-color: black;
+}
+.main-2 {
+	background-color: #607d8b;
+	width: 650px;
+	height: 700px;
+	float: left;
+}
+
+.logo,
+.botton-logo {
+	padding-top: 64px;
+	padding-bottom: 64px;
+}
+
+.botton-logo a {
+	text-decoration: none;
+	padding: 16px;
+	display: block;
+	color: #fff;
+}
+.botton-logo a:hover {
+	color: #fff!important;
+    background-color: #607d8b!important;
+	margin-left: 10px;
+	margin-right: 10px;
+} 
+.main-3 {
+	color: #fff;
+	text-align: center;
+	padding-top: 64px;
+	padding-bottom: 64px;
+}
+.img-logo {
+	margin: 16px;
+	width: 308px;
+	height: 308px;
+	border-radius: 160px;
+}
+.content {
+	width: 1300px;
+	height: 850px;
+	margin-top: -19px;
+}
+.content-1 {
+	background-color: #f1f1f1;
+	width: 650px;
+	height: 850px;
+	float: left;
+}
+
+.work {
+	padding: 64px 0;
+	text-align: center;
+}
+.img-2 {
+	width: 325px;
+	height: 150px;
+	float: left;
+}
+.content-2 {
+	width: 650px;
+	height: 850px;
+	float: left;
+	text-align: center;
+	background-color: #3f51b5;
+	color: #fff;
+}
+.cv-ll {
+	padding: 64px 33px;
+}
+.bang {
+	height: 404px;
+	width: 585px;
+	color: #fff;
+	border: none;
+	text-align: left;
+}
+.tr-1 {
+	color: #000;
+	background-color: #fff;
+	padding: 8px 8px;
+	margin: 0 8px;
+}
+.kynang {
+	width: 650px;
+	height: 700px;
+	float: left;
+	background-color: #616161;
+}
+.kn-1 {
+	padding: 40px 18px;
+	text-align: center;
+	color: #fff;
+}
+.kn-2 {
+	text-align: center;
+	color: #fff;
+	padding: 40px 0;
+}
+.borerd {
+	height: 16px;
+	width: 100px;
+	border: 2px solid Orange;
+	display: inline-block;
+	border-radius: 20px;
+	background-color: #fff;
+}
+.ct {
+	width: 650px;
+	height: 700px;
+	float: left;
+	background-color: #009688;
+}
+
+.lienhe {
+	color: #fff;
+	padding: 40px 0;
+}
+.lh-1 {
+	padding: 40px 41px;
+}
+.form-1 {
+	height: 288px;
+	width: 537px;
+	background-color: #fff;
+	color: #000;
+	padding-top: 32px!important;
+    padding-bottom: 32px!important;
+	box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+	padding: 0.01em 16px;
+	margin: 16px 0;
+}
+
+.ip-1 {
+	padding: 16px;
+    display: block;
+    border: none;
+    border-bottom: 1px solid #ccc;
+	width: 500px;
+}
+
+button {
+	padding: 8px 16px;
+	background-color:  #009688!important;
+	color: #fff;
+	float: right;
+	margin-top: 10px;
+	border: none;
+	cursor: pointer;
+}
